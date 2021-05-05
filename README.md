@@ -1,7 +1,7 @@
 1.  Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/react/react-rslang.md
 2.  Deploy: https://evgenia-kurineva.github.io/rslang/
 3.  Скрин приложения:
-  ![screenshot](https://github.com/evgenia-kurineva/rslang/blob/develop/main.jpg?raw=true)
+  ![screenshot](https://github.com/evgenia-kurineva/rslang/blob/after/public/img/main_screenshot.jpg?raw=true)
 4.  Стек приложения:
      - react
      - reduxjs/toolkit
@@ -13,4 +13,4 @@
 
  * Минимальный экран, под который адаптируется приложение - 500px
  * Так выглядят графики долгосрочной статистики для зарегистрированных пользователей:
-  ![screenshot](https://github.com/evgenia-kurineva/rslang/blob/develop/statistics.jpg?raw=true)
+  ![screenshot](https://github.com/evgenia-kurineva/rslang/blob/after/public/img/statistics_screenshot.jpg?raw=true)
