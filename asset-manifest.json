@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/rslang/static/css/main.3b668cd6.chunk.css",
+    "main.js": "/rslang/static/js/main.830279b7.chunk.js",
+    "main.js.map": "/rslang/static/js/main.830279b7.chunk.js.map",
+    "runtime-main.js": "/rslang/static/js/runtime-main.ae423699.js",
+    "runtime-main.js.map": "/rslang/static/js/runtime-main.ae423699.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/rslang/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c0878376.chunk.js": "/rslang/static/js/2.c0878376.chunk.js",
+    "static/js/2.c0878376.chunk.js.map": "/rslang/static/js/2.c0878376.chunk.js.map",
+    "index.html": "/rslang/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/rslang/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.3b668cd6.chunk.css.map": "/rslang/static/css/main.3b668cd6.chunk.css.map",
+    "static/js/2.c0878376.chunk.js.LICENSE.txt": "/rslang/static/js/2.c0878376.chunk.js.LICENSE.txt",
+    "static/media/1.787d8564.jpg": "/rslang/static/media/1.787d8564.jpg",
+    "static/media/2.836bfdc0.jpg": "/rslang/static/media/2.836bfdc0.jpg",
+    "static/media/3.d0fcabfa.jpg": "/rslang/static/media/3.d0fcabfa.jpg",
+    "static/media/App.css": "/rslang/static/media/Roboto-Regular.03523cf5.ttf",
+    "static/media/books.f75f67f6.svg": "/rslang/static/media/books.f75f67f6.svg",
+    "static/media/close.17a94979.svg": "/rslang/static/media/close.17a94979.svg",
+    "static/media/dictionary.25d26300.png": "/rslang/static/media/dictionary.25d26300.png",
+    "static/media/game.e3afd78f.svg": "/rslang/static/media/game.e3afd78f.svg",
+    "static/media/logo.adcfec57.svg": "/rslang/static/media/logo.adcfec57.svg",
+    "static/media/main_screen.3ac7ed06.png": "/rslang/static/media/main_screen.3ac7ed06.png",
+    "static/media/no.5b4896d2.svg": "/rslang/static/media/no.5b4896d2.svg",
+    "static/media/progress.c5933eea.svg": "/rslang/static/media/progress.c5933eea.svg",
+    "static/media/rs_school_js.ad178c0d.svg": "/rslang/static/media/rs_school_js.ad178c0d.svg",
+    "static/media/statistics.1e9123e7.png": "/rslang/static/media/statistics.1e9123e7.png",
+    "static/media/volume.549749cf.svg": "/rslang/static/media/volume.549749cf.svg",
+    "static/media/warning.47a7b73f.svg": "/rslang/static/media/warning.47a7b73f.svg",
+    "static/media/yes.47465416.svg": "/rslang/static/media/yes.47465416.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae423699.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c0878376.chunk.js",
+    "static/css/main.3b668cd6.chunk.css",
+    "static/js/main.830279b7.chunk.js"
+  ]
+}
